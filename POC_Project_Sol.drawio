@@ -1,0 +1,264 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.4 Chrome/138.0.7204.97 Electron/37.2.1 Safari/537.36" version="28.0.4">
+  <diagram name="Page-1" id="begSS1Ny8mvQv6d6KZVD">
+    <mxGraphModel dx="3010" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-1" value="האפליקציה של סול" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="740" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-8" value="מאגר האישורים" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-11" value="הגדרות" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-14" value="האפליקציה של סול" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="280" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="340" width="740" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="340" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-17" value="מאגר האישורים" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-18" value="הגדרות" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-20" value="הפרופיל שלי" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-28" value="הפרופיל שלי" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-113" value="מקפיץ חלון על המסך של העלאת אישור חדש" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Cy5kGSmybIPXKkUg03W-44" target="6Cy5kGSmybIPXKkUg03W-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-44" value="העלאת אישור חדש" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="670" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-46" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="670" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-47" value="סינון וחיפוש במאגר" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-48" value="האישורים האחרונים" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="679" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-60" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="560" y="699" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-61" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-62" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="560" y="761" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-64" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="596" y="810" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="679" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-66" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="349" y="699" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-67" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="349" y="740" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-68" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="349" y="761" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-69" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="385" y="810" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="679" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-71" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="136" y="699" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-72" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="136" y="740" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-73" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="136" y="761" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-74" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="172" y="810" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="880" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-76" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="560" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-77" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="560" y="941" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-78" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="560" y="962" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-79" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="596" y="1011" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="880" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-81" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="349" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-82" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="349" y="941" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-83" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="349" y="962" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-84" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1011" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="880" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-86" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="136" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-87" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="136" y="941" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-88" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="136" y="962" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-89" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="172" y="1011" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1080" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-91" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="561" y="1100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-92" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="561" y="1141" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-93" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="561" y="1162" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-94" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="597" y="1211" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1080" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-96" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-97" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1141" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-98" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1162" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-99" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="386" y="1211" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-100" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="1080" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-101" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;שם הבנק&lt;/span&gt;&lt;br&gt;&lt;font size=&quot;1&quot;&gt;שם הסניף&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-102" value="&lt;font size=&quot;1&quot;&gt;תאריך האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1141" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-103" value="&lt;font size=&quot;1&quot;&gt;פירוט על האישור העקרוני&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1162" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-104" value="פרטי קשר" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="173" y="1211" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-105" value="נמצאו X תוצאות" style="rounded=0;whiteSpace=wrap;html=1;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="110" y="610" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-106" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7ui.pageControl;fillColor=#222222;strokeColor=#aaaaaa;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1240" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-107" value="בנק (מתוך בחירה ממאגר של בנקים)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="485" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-108" value="שם הסניף (מתוך בחירה ממאגר של סניפים)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="485" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-109" value="תאריך האישור העקרוני (Calendar)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-112" value="ביצוע של סינון כלל האישורים לפי הפרמטרים שהוזנו" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Cy5kGSmybIPXKkUg03W-111" target="6Cy5kGSmybIPXKkUg03W-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-111" value="חיפוש" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-115" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="440" width="620" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-116" value="העלאת אישור חדש" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="460" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-117" value="בנק {מתוך בחירה ממאגר של בנקים}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="520" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-118" value="שם הסניף (מתוך בחירה ממאגר של סניפים)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="580" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-119" value="תאריך האישור העקרוני (Calendar)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="640" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-120" value="קובץ האישור העקרוני" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="460" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-121" value="גרור לכאן את הקובץ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="500" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-122" value="לחץ כאן על מנת להוסיף קובץ מהמחשב" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="640" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-123" value="העלאת אישור חדש" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="700" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-124" value="העלאת אישור חדש מוסיפה אותו למאגר האישורים הכלליים" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Cy5kGSmybIPXKkUg03W-123" target="6Cy5kGSmybIPXKkUg03W-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-126" value="העלאת אישור חדש" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-127" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;POC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="-20" width="2090" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-130" value="מושך את הפריטים מהמאגר בהתאם לסינון" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Cy5kGSmybIPXKkUg03W-128" target="6Cy5kGSmybIPXKkUg03W-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cy5kGSmybIPXKkUg03W-128" value="JSON" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1020" width="250" height="242" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
